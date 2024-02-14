@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to SF Digital 💻
+
+🎯 Our aim is to build modern software that supports the world's leading families and wealth creators. We manage and protect their wealth across several geographies and generations.
+
+📈 While the majority of our projects are closed-source, we have made the decision to expose some of our systems to the community, in order to help others create a seamless user experience for their users.
 
 <!--
 
